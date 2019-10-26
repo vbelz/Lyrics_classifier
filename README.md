@@ -34,7 +34,7 @@ text to english, spanish or french).
 
 Then it will be saved to disk as an csv file.
 
-Below, an example how the database should look like.
+Below, an example how the database should look like:
 
 <img src="Data_base_ex.png" alt="Example of artist's database" title="Example"  />
 
@@ -68,6 +68,8 @@ regression models). Below, a demo example where the program ask for new text to 
 Coldplay, Rihanna, Eminem, Akon and Metronomy. It correctly predicted this text being from Coldplay.
 
 <img src="demo_lyrics_prediction_zoom_quick.gif" alt="Demo prediction mode" title="Demo prediction mode" align="right" />
+
+---
 
 
 ## How to use
