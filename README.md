@@ -32,7 +32,7 @@ translation in english using googletrans package. The program can easily adapted
 other language (see the notebook Example_googletrans, to see a simple example how to translate a portuguese
 text to english, spanish or french).
 
-Then it will be saved to disk as an csv file.
+Then it will be saved to disk as a csv file.
 
 Below, an example how the database should look like:
 
