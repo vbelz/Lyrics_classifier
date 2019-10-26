@@ -11,14 +11,15 @@ which are described in the next sections.
 
 ## Requirements
 
-'''
+```
 * spacy 2.2.1
 * sklearn 0.21.3
 * pandas 0.23.4
 * langdetect 1.0.7
 * googletrans 2.4.0
 * beautifulsoup 4.6.5
-'''
+
+```
 
 ## Scraping web data
 
